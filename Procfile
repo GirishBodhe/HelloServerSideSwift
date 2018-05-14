@@ -1,1 +1,1 @@
-web: Run --env=production
+web: main.swift:app --env=production
